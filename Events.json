@@ -62,8 +62,8 @@
   {
     "id": 4,
     "serviceId": 1,
-    "title": "솜이네 떡볶이집",
-    "description": "왕튀떡볶이 먹고싶다",
+    "title": "소미네 떡볶이집",
+    "description": "튀김튀김",
     "coordinate": "37.560139, 126.996384",
     "coverImage": "https://lh5.googleusercontent.com/p/AF1QipPeneE5XvgzZylldAkWWXmmTq1fHC2imtLNGRLP=w408-h306-k-no",
     "startDate": "2020-05-16T14:21:03+0000",
@@ -80,6 +80,3 @@
     ]
   }
 ]
-
-
-
